@@ -1,0 +1,7 @@
+{
+    "name": "PortableStash",
+    "description": "Allow access to a specific storage anywhere on the planet. どこからでも開くことができる特別なストレージ。",
+    "version_number": "1.0.0",
+    "dependencies": [],
+    "website_url": "https://github.com/hetima/DSP_PortableStash"
+}
